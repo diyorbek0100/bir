@@ -1,0 +1,95 @@
+.chaild{
+    display: flex;
+    margin: -25px 600px;
+    gap: 50px;
+    width: 100px;
+}
+.rasim{
+    width: 16px;
+    height: 21px;
+    flex-shrink: 0;
+}
+.rasim-2{
+    width: 18px;
+    height: 21px;
+    flex-shrink: 0;
+}
+.krem{
+    width: 330px;
+    height: 422px;
+    flex-shrink: 0;
+    margin: 60px;
+}
+.MAROON{
+    display: flex;
+    width: 260px;
+    height: 40px;
+    justify-content: center;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: -380px 452px;
+}
+p{
+    display: flex;
+    width: 274px;
+    height: 40px;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #122947;
+    text-align: center;
+    font-family: Mplus 1p;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 145%;  /*26.1px */
+    margin: -350px 504px;
+}
+.nom{
+    width: 330px;    
+    height: 422px;
+    flex-shrink: 0;
+    margin: 178px 880px;
+}
+.ali-1{
+    color: #122947;
+    font-family: Mplus 1p;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 145%; /* 26.1px */
+    margin: -15px;
+}
+.c-services{
+    width: 100%;
+    height: 90%;
+    border: 1px solid;
+}
+.c-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    width: 100%;
+    height: 100%;
+    margin: -63px 100px;
+}
+.c-item{
+    width: 230px;
+    height: 312px;
+    border: 1px solid;
+}
+.krem{
+    width: 1366px;
+    height: 400px;
+    flex-shrink: 0;
+    margin: 115px 71px;
+}
+.yozuv{
+    margin: -300px 900px;
+}
+.end{
+    margin: 275px 0px;
+}
